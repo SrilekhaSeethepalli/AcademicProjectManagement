@@ -1,8 +1,13 @@
 AcademicProjectManagement/
+
 ├── src/
+
 │   └── main/
+
 │       └── java/
+
 │           └── com/
+
 │               └── example/
 │                   └── AcademicProjectManagement/
 │                       ├── controllers/
